@@ -41,3 +41,22 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/RentnerProxy/app-oidc">OpenID Connect</a>
 </p>
+
+<table align="center">
+  <tr>
+    <th align="center" width="50%">Dark mode</th>
+    <th align="center" width="50%">Light mode</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://raw.githubusercontent.com/RentnerProxy/platform/main/screenshots/proxy-hosts-dark-v2.webp">
+        <img src="https://raw.githubusercontent.com/RentnerProxy/platform/main/screenshots/proxy-hosts-dark-v2.webp" alt="RentnerProxy proxy host dashboard in dark mode" width="440">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://raw.githubusercontent.com/RentnerProxy/platform/main/screenshots/proxy-hosts-light.webp">
+        <img src="https://raw.githubusercontent.com/RentnerProxy/platform/main/screenshots/proxy-hosts-light.webp" alt="RentnerProxy proxy host dashboard in light mode" width="440">
+      </a>
+    </td>
+  </tr>
+</table>
